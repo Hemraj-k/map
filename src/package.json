@@ -1,0 +1,13 @@
+{
+  "name": "kw548kyx05",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "google-map-react": "1.0.1",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-geolocation": "1.0.2"
+  }
+}
